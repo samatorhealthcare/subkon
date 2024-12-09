@@ -5,7 +5,7 @@ Supervised by [elbert@samatorhealthcare.com]
 
 ## Usage
 
-This is a [Laravel](https://laravel.com/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Laravel](https://laravel.com/) project bootstrapped with [`composer create-project laravel/laravel:^10.0 subkon-app `] and filament (https://filamentphp.com/)
 
 ### Getting Started
 
