@@ -8,7 +8,7 @@ Supervised by [elbert@samatorhealthcare.com]
 This is a [Laravel](https://laravel.com/) project bootstrapped with [`composer create-project laravel/laravel:^10.0 subkon-app `] and filament (https://filamentphp.com/)
 
 ### Getting Started
-
+```bash
 1. clone with gitbash this project to local computer
 2. open the folder of your git to code editor (e.g. VS code)
 4. copy file of .env.example and rename to .env
@@ -24,6 +24,7 @@ This is a [Laravel](https://laravel.com/) project bootstrapped with [`composer c
 14. run php artisan serve to open in localhost
 15. run php artisan make:policy YourModelName --model=YourModelName to add filament policy access
 16. run php artisan storage:link to create mirroring Public folder for upload docs function
+```
 
 ### Deploy on NiagaHoster or Hostinger
 
